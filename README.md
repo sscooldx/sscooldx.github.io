@@ -1,5 +1,5 @@
 # sscooldx.github.io - Random site. <img src="/Assets/62b2e13ee2994086327356a18e6c5fc2.png" height="50" width="50">
-[![pages-build-deployment](https://github.com/sscooldx/sscooldx.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sscooldx/sscooldx.github.io/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/sscooldx/sscooldx.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sscooldx/sscooldx.github.io/actions/workflows/pages/pages-build-deployment) [![Deploy static content to Pages](https://github.com/sscooldx/sscooldx.github.io/actions/workflows/static.yml/badge.svg)](https://github.com/sscooldx/sscooldx.github.io/actions/workflows/static.yml)
 
 <p>This is a free site with gaems and scripts.</p>
 
