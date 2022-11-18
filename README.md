@@ -10,5 +10,8 @@ The script page is full of Bookmarklets made by people online. *i do not claim t
 The games page has a list of websites to play and a game libary.
 
 ## Mod menus
-## MOD SECTION IS NOT COMPLETE!
+UNDER CONSTRUCTION
 THe mod menus page has mods for android games like roblox or minecraft.
+
+## Support
+If you want something taken down from the website you can contact <a href="mailto:devxternal@gmail.com">dev</a>
