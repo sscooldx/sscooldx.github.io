@@ -14,4 +14,4 @@ UNDER CONSTRUCTION
 THe mod menus page has mods for android games like roblox or minecraft.
 
 ## Support
-If you want something taken down from the website you can contact <a href="mailto:devxternal@gmail.com">dev</a>
+If you want something taken down from the website or want support, you can contact <a href="mailto:devxternal@gmail.com">Dev</a>
